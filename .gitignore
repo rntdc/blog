@@ -5,3 +5,4 @@ resources/
 
 # Editor
 .vscode/
+node_modules/
